@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+  
+ #productList{
+  
+ }
+ #filter_menu
+ {
+  float: left;
+  padding: 0;
+  margin: 0;
+  display:block;  
+  width: 100;
+  height: 1050px;
+  list-style: none;
+  font-family: Georgia,"Times new Roman"  
+ }
+ .imagebox{    
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 10px;   
+          
+}
+
+
+#captionIMG
+{    
+    display: inline-block;
+    width: 150px;
+    height: 100px;
+    margin: 10px;   
+          
+}
+#nameIMG
+{    
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 10px;   
+          
+}
+ 
+

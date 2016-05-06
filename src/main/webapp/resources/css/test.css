@@ -1,0 +1,76 @@
+@CHARSET "UTF-8";
+ h1 {
+ text-align: center;
+ background-color: purple;
+ border: solid medium; color: black;}
+ p.bb {color: red;
+ font-size: 50px;
+ border-bottom: 1px solid black;
+ text-align: center;
+ }
+ 
+ .bb2 {color: aqua;
+ font-size: 50px;
+ border-bottom: 1px solid black;
+ background-color: graytext;
+ padding:  20px; 
+ border-style: outset; 
+ margin-left: auto;
+ margin-right: auto;  
+ display:  block;
+ 
+ }
+ #para_index
+ {color: fuchsia;
+ font-size: 50px;
+ border-bottom: 1px solid black;
+ background-color: graytext;
+ padding:  20px; 
+ border-style: outset; 
+ margin-left: auto;
+ margin-right: auto;  
+ display:  block;
+ border-ra
+ 
+ }
+ 
+ #div_main
+  {color: fuchsia;
+ font-size: 50px;
+ border-bottom: 1px solid black;
+ background-color: graytext;
+ padding:  20px; 
+ border-style: outset; 
+ margin-left: auto;
+ margin-right: auto;  
+ display:  block;
+ border-ra
+ 
+ }
+ #pict_block{
+ display:  block;
+ float: right; 
+ }
+ 
+ #productList{
+  float: left;
+ }
+ 
+ a:LINK {
+  color: blue;
+ }
+ a:VISITED {
+  color: black;
+ }
+ 
+ a:HOVER {
+  color: red;
+ }
+ 
+ 
+ 
+ 
+ body {
+  color: green;
+	 
+}
